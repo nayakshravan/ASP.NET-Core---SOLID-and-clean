@@ -1,0 +1,11 @@
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\bin\Debug\net8.0\HR.LeaveMangement.Domain.deps.json
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\bin\Debug\net8.0\HR.LeaveMangement.Domain.dll
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\bin\Debug\net8.0\HR.LeaveMangement.Domain.pdb
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\obj\Debug\net8.0\HR.LeaveMangement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\obj\Debug\net8.0\HR.LeaveMangement.Domain.AssemblyInfoInputs.cache
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\obj\Debug\net8.0\HR.LeaveMangement.Domain.AssemblyInfo.cs
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\obj\Debug\net8.0\HR.LeaveMangement.Domain.csproj.CoreCompileInputs.cache
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\obj\Debug\net8.0\HR.LeaveMangement.Domain.dll
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\obj\Debug\net8.0\refint\HR.LeaveMangement.Domain.dll
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\obj\Debug\net8.0\HR.LeaveMangement.Domain.pdb
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveMangement.Domain\obj\Debug\net8.0\ref\HR.LeaveMangement.Domain.dll

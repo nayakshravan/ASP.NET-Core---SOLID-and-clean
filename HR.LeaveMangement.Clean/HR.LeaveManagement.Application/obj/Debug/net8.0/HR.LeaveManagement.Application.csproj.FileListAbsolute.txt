@@ -1,0 +1,15 @@
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.deps.json
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveMangement.Domain.dll
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveMangement.Domain.pdb
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.Leave.CEB84392.Up2Date
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.dll
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\refint\HR.LeaveManagement.Application.dll
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.pdb
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\ref\HR.LeaveManagement.Application.dll
