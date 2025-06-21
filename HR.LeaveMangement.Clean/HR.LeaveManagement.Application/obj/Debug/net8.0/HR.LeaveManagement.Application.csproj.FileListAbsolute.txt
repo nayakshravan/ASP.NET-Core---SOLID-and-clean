@@ -13,3 +13,4 @@ C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Cl
 C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\refint\HR.LeaveManagement.Application.dll
 C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.pdb
 C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\ref\HR.LeaveManagement.Application.dll
+C:\shravan\prog\my git codes\ASP.NET-Core---SOLID-and-clean\HR.LeaveMangement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.sourcelink.json

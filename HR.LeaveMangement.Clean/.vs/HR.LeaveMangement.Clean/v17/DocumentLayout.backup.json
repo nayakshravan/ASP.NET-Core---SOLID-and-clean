@@ -3,72 +3,56 @@
   "WorkspaceRootPath": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013B5FCC-4C8B-43C7-8915-4B2E1383A91A}|HR.LeaveMangement.Infrastructure\\HR.LeaveMangement.Infrastructure.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemangement.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013B5FCC-4C8B-43C7-8915-4B2E1383A91A}|HR.LeaveMangement.Infrastructure\\HR.LeaveMangement.Infrastructure.csproj|solutionrelative:hr.leavemangement.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013B5FCC-4C8B-43C7-8915-4B2E1383A91A}|HR.LeaveMangement.Infrastructure\\HR.LeaveMangement.Infrastructure.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemangement.infrastructure\\logging\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013B5FCC-4C8B-43C7-8915-4B2E1383A91A}|HR.LeaveMangement.Infrastructure\\HR.LeaveMangement.Infrastructure.csproj|solutionrelative:hr.leavemangement.infrastructure\\logging\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\leavetypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\leavetypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\contracts\\logging\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\logging\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013B5FCC-4C8B-43C7-8915-4B2E1383A91A}|HR.LeaveMangement.Infrastructure\\HR.LeaveMangement.Infrastructure.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemangement.infrastructure\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013B5FCC-4C8B-43C7-8915-4B2E1383A91A}|HR.LeaveMangement.Infrastructure\\HR.LeaveMangement.Infrastructure.csproj|solutionrelative:hr.leavemangement.infrastructure\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\contracts\\email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\models\\email\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\models\\email\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546D145B-5233-4324-B595-8BD6AEC7E7C2}|HR.LeaveMangement.Persistence\\HR.LeaveMangement.Persistence.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemangement.persistence\\repositories\\leaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546D145B-5233-4324-B595-8BD6AEC7E7C2}|HR.LeaveMangement.Persistence\\HR.LeaveMangement.Persistence.csproj|solutionrelative:hr.leavemangement.persistence\\repositories\\leaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\contracts\\persistence\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546D145B-5233-4324-B595-8BD6AEC7E7C2}|HR.LeaveMangement.Persistence\\HR.LeaveMangement.Persistence.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemangement.persistence\\repositories\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546D145B-5233-4324-B595-8BD6AEC7E7C2}|HR.LeaveMangement.Persistence\\HR.LeaveMangement.Persistence.csproj|solutionrelative:hr.leavemangement.persistence\\repositories\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\shravan\\prog\\my git codes\\asp.net-core---solid-and-clean\\hr.leavemangement.clean\\hr.leavemanagement.application\\contracts\\persistence\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E325C7FB-4435-4FD4-BC78-E85DDE7A94FF}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,222 +75,170 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BadRequestException.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Exceptions\\BadRequestException.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Exceptions\\BadRequestException.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Exceptions\\BadRequestException.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Exceptions\\BadRequestException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:16:28.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CreateLeaveTypeCommandValidator.cs",
               "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
               "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
               "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwB4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:08:27.121Z",
+              "WhenOpened": "2025-06-21T07:24:25.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:55:43.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:40:25.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetLeaveTypesQueryHandler.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:33:29.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:04:56.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DeleteLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:44:10.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeleteLeaveTypeCommand.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommand.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:43:36.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetLeaveTypeDetailsQueryHandler.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T08:01:32.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "UpdateLeaveTypeCommand.cs",
               "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommand.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommand.cs",
               "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommand.cs",
               "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:38:41.411Z",
+              "WhenOpened": "2025-06-21T07:23:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetLeaveTypesQueryHandler.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:17:40.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggerAdapter.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "RelativeDocumentMoniker": "HR.LeaveMangement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "RelativeToolTip": "HR.LeaveMangement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:12:56.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppLogger.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Logging\\IAppLogger.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Logging\\IAppLogger.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Logging\\IAppLogger.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Logging\\IAppLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:11:11.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Infrastructure\\EmailService\\EmailSender.cs",
+              "RelativeDocumentMoniker": "HR.LeaveMangement.Infrastructure\\EmailService\\EmailSender.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Infrastructure\\EmailService\\EmailSender.cs",
+              "RelativeToolTip": "HR.LeaveMangement.Infrastructure\\EmailService\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:07:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Models\\Email\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Models\\Email\\EmailMessage.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Models\\Email\\EmailMessage.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Models\\Email\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:01:13.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Email\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Email\\IEmailSender.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Email\\IEmailSender.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Email\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:00:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "HR.LeaveMangement.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "HR.LeaveMangement.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:40:40.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveAllocationRepository.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveMangement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
+              "RelativeToolTip": "HR.LeaveMangement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:14:20.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GetLeaveTypeDetailsQuery.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQuery.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQuery.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQuery.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Persistence\\Repositories\\LeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveMangement.Persistence\\Repositories\\LeaveRequestRepository.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveMangement.Persistence\\Repositories\\LeaveRequestRepository.cs",
+              "RelativeToolTip": "HR.LeaveMangement.Persistence\\Repositories\\LeaveRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:32:26.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LeaveTypeDetailsDto.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsDto.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsDto.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsDto.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:32:21.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LeaveTypeProfile.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:24:43.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LeaveTypeDto.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:28:36.934Z",
+              "WhenOpened": "2025-06-21T05:14:18.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CreateLeaveTypeCommand.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Title": "ILeaveAllocationRepository.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:00:45.122Z",
+              "WhenOpened": "2025-06-21T05:14:01.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApplicationServiceRegistration.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
+              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T06:51:15.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs",
-              "ToolTip": "C:\\shravan\\prog\\my git codes\\ASP.NET-Core---SOLID-and-clean\\HR.LeaveMangement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T06:24:33.632Z",
+              "WhenOpened": "2025-06-21T05:13:45.451Z",
               "EditorCaption": ""
             }
           ]
